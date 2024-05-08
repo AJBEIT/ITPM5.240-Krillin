@@ -21,12 +21,12 @@
 6. Risk Management Template TODO
 7. User Acceptance Testing TODO
 
-### Group meeting reports
+## Group meeting reports
 * [Iteration 1 meeting report](https://github.com/AJBEIT/ITPM5.240-Krillin/blob/main/Iteration%201/Group%20Meeting%20Report%201.docx)
 * [Iteration 2 meeting report](https://github.com/AJBEIT/ITPM5.240-Krillin/blob/main/Iteration%202/Group%20Meeting%20Report%202.docx)
 * Iteration 3 meeting report TODO
 
-### Group progress reports
+## Group progress reports
 * [Iteration 1 progress report](https://github.com/AJBEIT/ITPM5.240-Krillin/blob/main/Iteration%201/Progress%20Report%201%20-%20Krillin.docx)
 * [Iteration 2 progress report](https://github.com/AJBEIT/ITPM5.240-Krillin/blob/main/Iteration%202/Progress%20Report%202%20-%20Krillin.docx)
 * Iteration 3 progress report TODO
