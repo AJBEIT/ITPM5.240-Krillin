@@ -7,7 +7,6 @@
 * Hunter James Mends
 * Anthony Nguyen
 
-## Table of Contents
 ## Iteration 1
 1. [Stakeholder register](https://github.com/AJBEIT/ITPM5.240-Krillin/blob/main/Iteration%201/Stakeholder%20register.docx)
 2. [Three Personas](https://github.com/AJBEIT/ITPM5.240-Krillin/blob/main/Iteration%201/Personas)
