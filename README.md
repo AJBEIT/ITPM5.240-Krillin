@@ -16,5 +16,5 @@ Personas\
 
 ### Group progress reports
 * [Iteration 1 progress report](https://github.com/AlexJohnBourk/ITPM5.240-Krillin/blob/main/Iteration%201/Progress%20Report%201%20-%20Krillin.docx)
-* [Iteration 2 progress report](https://github.com/AlexJohnBourk/ITPM5.240-Krillin/tree/main/Iteration%202) TODO
+* [Iteration 2 progress report](https://github.com/AJBEIT/ITPM5.240-Krillin/blob/main/Iteration%202/Progress%20Report%202%20-%20Krillin.docx)
 
