@@ -8,16 +8,16 @@
 * Anthony Nguyen
 
 ## Table of Contents
-# Iteration 1
+## Iteration 1
 1. [Stakeholder register](https://github.com/AJBEIT/ITPM5.240-Krillin/blob/main/Iteration%201/Stakeholder%20register.docx)
 2. [Three Personas](https://github.com/AJBEIT/ITPM5.240-Krillin/blob/main/Iteration%201/Personas)
 3. [Persona testing](https://github.com/AJBEIT/ITPM5.240-Krillin/blob/main/Iteration%201/Personas/Persona%20Testing.docx)
 
-# Iteration 2
+## Iteration 2
 4. [Gantt Chart](https://github.com/AJBEIT/ITPM5.240-Krillin/blob/main/Iteration%202/Agile%20Gantt%20chart.xlsx)
 5. [Resource Requirements](https://github.com/AJBEIT/ITPM5.240-Krillin/blob/main/Iteration%202/Resource%20Requirements.xlsx)
 
-# Iteration 3
+## Iteration 3
 6. Risk Management Template TODO
 7. User Acceptance Testing TODO
 
