@@ -14,11 +14,12 @@
 
 ## Iteration 2
 4. [Gantt Chart](https://github.com/AJBEIT/ITPM5.240-Krillin/blob/main/Iteration%202/Agile%20Gantt%20chart.xlsx)
-5. [Resource Requirements](https://github.com/AJBEIT/ITPM5.240-Krillin/blob/main/Iteration%202/Resource%20Requirements.xlsx)
+5. [Github Board](https://github.com/users/AJBEIT/projects/2/views/1)
+6. [Resource Requirements](https://github.com/AJBEIT/ITPM5.240-Krillin/blob/main/Iteration%202/Resource%20Requirements.xlsx)
 
 ## Iteration 3
-6. [Risk Management Template](https://github.com/AJBEIT/ITPM5.240-Krillin/blob/main/Iteration%203/risk_register.docx)
-7. User Acceptance Testing TODO
+7. [Risk Management Template](https://github.com/AJBEIT/ITPM5.240-Krillin/blob/main/Iteration%203/risk_register.docx)
+8. User Acceptance Testing TODO
 
 ## Group meeting reports
 * [Iteration 1 meeting report](https://github.com/AJBEIT/ITPM5.240-Krillin/blob/main/Iteration%201/Group%20Meeting%20Report%201.docx)
