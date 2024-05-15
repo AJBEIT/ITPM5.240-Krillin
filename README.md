@@ -18,7 +18,7 @@
 6. [Resource Requirements](https://github.com/AJBEIT/ITPM5.240-Krillin/blob/main/Iteration%202/Resource%20Requirements.xlsx)
 
 ## Iteration 3
-7. [Risk Management Template](https://github.com/AJBEIT/ITPM5.240-Krillin/blob/main/Iteration%203/risk_register.docx)
+7. [Risk Management Template](https://github.com/AJBEIT/ITPM5.240-Krillin/blob/main/Iteration%203/risk_register.docx) TODO FILL OUT
 8. User Acceptance Testing TODO
 
 ## Group meeting reports
