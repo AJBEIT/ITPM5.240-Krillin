@@ -1,6 +1,5 @@
 # ITPM5.240 - Krillin
-<!-- Empty Comment -->
-![hampter](https://github.com/AJBEIT/ITPM5.240-Krillin/blob/main/hampter.png) 
+<!-- ![hampter](https://github.com/AJBEIT/ITPM5.240-Krillin/blob/main/hampter.png) -->
 
 ## Group Krillin - Group members:
 
