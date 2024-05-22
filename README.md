@@ -33,4 +33,4 @@
 * Iteration 3 progress report TODO
 
 ## Final Page
-https://ajbeit.github.io/ITPM5.240-Krillin/Web-Application/index.html
+https://ajbeit.github.io/ITPM5.240-Krillin/
