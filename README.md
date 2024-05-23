@@ -14,7 +14,7 @@
 3. [Persona testing](https://github.com/AJBEIT/ITPM5.240-Krillin/blob/main/Iteration%201/Personas/Persona%20Testing.docx)
 
 ## Iteration 2
-4. [Gantt Chart](https://github.com/AJBEIT/ITPM5.240-Krillin/blob/main/Iteration%202/Agile%20Gantt%20chart.xlsx)
+4. [Gantt Chart](https://github.com/AJBEIT/ITPM5.240-Krillin/blob/main/Iteration%202/Krillin%20Agile%20Gantt%20chart.xlsx)
 5. [Github Board](https://github.com/users/AJBEIT/projects/2/views/1)
 6. [Resource Requirements](https://github.com/AJBEIT/ITPM5.240-Krillin/blob/main/Iteration%202/Resource%20Requirements.xlsx)
 
