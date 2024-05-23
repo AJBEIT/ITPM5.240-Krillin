@@ -20,7 +20,7 @@
 
 ## Iteration 3
 7. [Risk Register](https://github.com/AJBEIT/ITPM5.240-Krillin/blob/main/Iteration%203/risk_register.docx)
-8. User Acceptance Testing TODO
+8. [User Acceptance Testing](https://github.com/AJBEIT/ITPM5.240-Krillin/blob/main/Iteration%203/User_Acceptance_Tests.xlsx)
 
 ## Group meeting reports
 * [Iteration 1 meeting report](https://github.com/AJBEIT/ITPM5.240-Krillin/blob/main/Iteration%201/Group%20Meeting%20Report%201.docx)
@@ -30,7 +30,7 @@
 ## Group progress reports
 * [Iteration 1 progress report](https://github.com/AJBEIT/ITPM5.240-Krillin/blob/main/Iteration%201/Progress%20Report%201%20-%20Krillin.docx)
 * [Iteration 2 progress report](https://github.com/AJBEIT/ITPM5.240-Krillin/blob/main/Iteration%202/Progress%20Report%202%20-%20Krillin.docx)
-* [Iteration 3 progress report](https://github.com/AJBEIT/ITPM5.240-Krillin/blob/main/Iteration%203/User_Acceptance_Tests.xlsx)
+* Iteration 3 progress report TODO
 
 ## Final Page
 https://ajbeit.github.io/ITPM5.240-Krillin/
